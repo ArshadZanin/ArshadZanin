@@ -19,11 +19,11 @@
 <h3 align="center">Flutter Developer | Software Engineer </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/arshadzanin786" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="arshad_zanin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arshad-sanin-153bab20b/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="arshad_zanin" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/arshad-sanin-153bab20b/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="arshad_zanin" height="30" width="40" /></a>  
 <!-- <a href="https://www.kaggle.com/arshadzanin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/arshad_zanin/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="arshad_zanin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arshad_zanin/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="arshad_zanin" height="30" width="40" /></a>
 <!-- <a href="https://www.facebook.com/arshadzanin/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a> -->
- <a href = "mailto: arshadzanin786@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: arshadzanin786@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 </p>
 
