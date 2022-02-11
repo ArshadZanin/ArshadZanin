@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
 <hr>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Arshad+Sanin!;I'm+a+Flutter+Developer...;I'm+also+Compitetive+Programmer;And+I'm+a+proud+India)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Arshad+Sanin!;I'm+a+Flutter+Developer...;I'm+also+Compitetive+Programmer;And+I'm+a+proud+India+🇵🇰)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Arshad Sanin PV </h1> -->
 <h3 align="center">Flutter Developer | Software Engineer </h3>
